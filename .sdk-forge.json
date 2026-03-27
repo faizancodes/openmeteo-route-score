@@ -1,0 +1,12 @@
+{
+  "sdkForge": true,
+  "language": "typescript",
+  "category": "Developer Tools",
+  "keyFeatures": [
+    "Pluggable scoring weights for wind, precipitation, AQI, temperature, and UV",
+    "Polyline/waypoint support with per-segment forecast sampling",
+    "Explainable score report (component contributions + human-readable rationale)",
+    "Built-in caching and rate-limit friendly batching for forecast calls"
+  ],
+  "targetUsers": "Next.js/Node developers building fitness, mobility, or logistics apps needing forecast-aware route recommendations."
+}
